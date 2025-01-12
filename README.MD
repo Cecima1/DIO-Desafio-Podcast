@@ -1,5 +1,12 @@
+<p align="center">
+<img 
+    src="./assets/image1.png"
+    width="300"
+/>
+</p>
+
 # Projeto Podcast Gerado por I.A.s
-[Ih, buguei! Descomplicando a inteligência artificial no dia a dia]
+[Ih, buguei! Descomplicando a inteligência artificial no dia a dia](https://github.com/Cecima1/DIO-Desafio-Podcast/blob/main/output/Podcast_AudioFinal.mp3)
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido como parte da jornada do Bootcamp CAIXA – IA Generativa com Microsoft Copilot.
 
