@@ -1,6 +1,20 @@
-<p align="center">
+<p align="right">
 <img 
     src="./assets/Image1.jpg"
+    width="300"
+/>
+</p>
+
+<p align="center">
+<img 
+    src="./assets/Image2.jpg"
+    width="300"
+/>
+</p>
+
+<p align="left">
+<img 
+    src="./assets/Image3.jpg"
     width="300"
 />
 </p>
@@ -15,7 +29,7 @@ Projeto desenvolvido com fins didáticos, com o objetivo de gerar um podcast uti
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo.AI](https://https//app.leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -23,13 +37,13 @@ Projeto desenvolvido com fins didáticos, com o objetivo de gerar um podcast uti
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Leonardo.Ai Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 🧠 Prompts Utilizados no Projeto Final
 
 -[Prompts ChatGPT](https://github.com/Cecima1/DIO-Desafio-Podcast/blob/main/src/prompts/chatgpt.md)
--[Prompts Midjourney](https://github.com/Cecima1/DIO-Desafio-Podcast/blob/main/src/prompts/midjourney.md)
+-[Prompts Leonardo.AI](https://github.com/Cecima1/DIO-Desafio-Podcast/blob/main/src/prompts/leonardoai.md)
 
 ## 📚 Materiais
 
@@ -48,7 +62,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 👨‍💻 ~~Expert~~ Iniciante
 
 <p>
-    Cecília M Almeida<br>
+    Cecília Martins de Almeida<br>
     <a href="https://github.com/Cecima1">GitHub</a> | 
     <a href="https://www.linkedin.com/in/cecilia-martins-de-almeida-905112345/">LinkedIn</a>
 </p>
