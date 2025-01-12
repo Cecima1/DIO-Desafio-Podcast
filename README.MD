@@ -1,23 +1,16 @@
-<p align="right">
-<img 
-    src="./assets/Image1.jpg"
-    width="300"
-/>
-</p>
-
-<p align="center">
-<img 
-    src="./assets/Image2.jpg"
-    width="300"
-/>
-</p>
-
-<p align="left">
-<img 
-    src="./assets/Image3.jpg"
-    width="300"
-/>
-</p>
+<table>
+  <tr>
+    <td align="right">
+      <img src="./assets/Image1.jpg" width="300"/>
+    </td>
+    <td align="center">
+      <img src="./assets/Image2.jpg" width="300"/>
+    </td>
+    <td align="left">
+      <img src="./assets/Image3.jpeg" width="300"/>
+    </td>
+  </tr>
+</table>
 
 # Projeto Podcast Gerado por I.A.s
 [Ih, buguei! Descomplicando a inteligência artificial no dia a dia](https://github.com/Cecima1/DIO-Desafio-Podcast/blob/main/output/Podcast_AudioFinal.mp3)
