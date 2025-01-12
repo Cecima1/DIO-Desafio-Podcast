@@ -1,11 +1,9 @@
 # Projeto Podcast Gerado por I.A.s
-<a href="https://github.com/Cecima1/DIO-Desafio-Podcast/blob/main/output/synthesized_audio.mp3"> # "Ih, buguei! Descomplicando a inteligência artificial no dia a dia" </a>
+[Ih, buguei! Descomplicando a inteligência artificial no dia a dia]
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido como parte da jornada do Bootcamp CAIXA – IA Generativa com Microsoft Copilot.
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
+Projeto desenvolvido com fins didáticos, com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais elaborados.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -23,8 +21,8 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🧠 Prompts Utilizados no Projeto Final
 
-[Prompts ChatGPT](https://github.com/Cecima1/DIO-Desafio-Podcast/blob/main/src/prompts/chatgpt.md)
-[Prompts Midjourney](https://github.com/Cecima1/DIO-Desafio-Podcast/blob/main/src/prompts/midjourney.md)
+-[Prompts ChatGPT](https://github.com/Cecima1/DIO-Desafio-Podcast/blob/main/src/prompts/chatgpt.md)
+-[Prompts Midjourney](https://github.com/Cecima1/DIO-Desafio-Podcast/blob/main/src/prompts/midjourney.md)
 
 ## 📚 Materiais
 
